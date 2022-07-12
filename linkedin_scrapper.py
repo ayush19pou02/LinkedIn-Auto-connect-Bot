@@ -1,6 +1,5 @@
 import selenium
 from selenium import webdriver
-import pyautogui as pyt
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
